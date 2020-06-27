@@ -5,21 +5,26 @@ from netmiko import ConnectHandler
 iosv_l2_s4 = {
     'device_type': 'cisco_ios',
     'ip': '192.168.122.84',
+<<<<<<< HEAD
     'username': 'dele',
     'password': 'cisco123',
+=======
+    'username': 'david',
+    'password': 'cisco',
+>>>>>>> parent of aa6225a... my third git
 }
 
 iosv_l2_s5 = {
     'device_type': 'cisco_ios',
     'ip': '192.168.122.85',
-    'username': 'dele',
+    'username': 'david',
     'password': 'cisco',
 }
 
 iosv_l2_s6 = {
     'device_type': 'cisco_ios',
     'ip': '192.168.122.86',
-    'username': 'dele',
+    'username': 'david',
     'password': 'cisco',
 }
 
