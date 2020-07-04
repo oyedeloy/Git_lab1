@@ -1,1 +1,3 @@
 testing out git push origin.
+testing out 3 way merge
+
